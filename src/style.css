@@ -2,14 +2,9 @@
   --blue: #00acdc;
 }
 
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 html {
   font-family: Roboto, Arial, sans-serif;
+  box-sizing: border-box;
 }
 
 body {
@@ -24,9 +19,7 @@ body {
   display: flex;
   align-items: center;
   width: 100%;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 50px;
+  margin: 0 ;
 }
 
 .header__logo-link {
@@ -72,6 +65,13 @@ body {
   text-transform: uppercase;
   position: relative;
   padding: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-inline: 50px;
 }
 
 .nav__link::after {
