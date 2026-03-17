@@ -102,3 +102,4 @@ body {
 .nav__link[data-qa='hover']:hover::after {
   width: 37px;
 }
+

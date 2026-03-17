@@ -27,8 +27,13 @@ The page should match the design Pixel Perfect: all the sizes, colors and distan
 
 ❗️ Replace `<your_account>` with your GitHub username and copy the links to the `Pull Request` description:
 
+<<<<<<< HEAD
 - [DEMO LINK](https://<vlad23zhurzh>.github.io/layout_moyo-header/)
 - [TEST REPORT LINK](https://<vlad23zhurzh>.github.io/layout_moyo-header/report/html_report/)
+=======
+- [DEMO LINK](https://vlad23zhurzh.github.io/layout_moyo-header/)
+- [TEST REPORT LINK](https://vlad23zhurzh.github.io/layout_moyo-header/report/html_report/)
+>>>>>>> 42912660f1f9ae662edd9f6c0274bc83282fe7f2
 
 ❗️ Copy this `Checklist` to the `Pull Request` description after links, and put `- [x]` before each point after you checked it.
 
